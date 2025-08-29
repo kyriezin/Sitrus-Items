@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="756bf1dd-2ae7-482c-844b-80bef25bb10e" name="Changes" comment="kyrie's Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sitrus/sitrusitemsmod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sitrus/sitrusitemsmod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -36,6 +44,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="31weBMHDYZh3FfnZuh1tuKuNcfP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -93,7 +104,7 @@
       <workItem from="1756439427710" duration="222000" />
       <workItem from="1756439657583" duration="1392000" />
       <workItem from="1756441061235" duration="753000" />
-      <workItem from="1756479916787" duration="1794000" />
+      <workItem from="1756479916787" duration="2604000" />
     </task>
     <task id="LOCAL-00001" summary="29-08-25">
       <created>1756441330058</created>
@@ -116,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1756480855696</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kyrie's Commit">
+      <created>1756482520762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756482520762</updated>
+    </task>
+    <task id="LOCAL-00005" summary="kyrie's Commit">
+      <created>1756482528016</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756482528016</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
